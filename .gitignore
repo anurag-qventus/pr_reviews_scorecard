@@ -1,0 +1,30 @@
+# Environment
+.env
+.venv/
+
+# Data (PR files, SQLite DBs, fetch state)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Build
+dist/
+build/
+*.egg-info/
